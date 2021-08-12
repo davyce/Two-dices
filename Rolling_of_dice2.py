@@ -1,4 +1,4 @@
-#This program the rolling of dice 2.0.
+#This program roll 2 of dices.
 import random
 
 #Constant for the minimum and the maximum number
